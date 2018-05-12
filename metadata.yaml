@@ -13,6 +13,8 @@ creator:
 description: 'There are two separate and significantly different versions of this
   text. This is the non-illustrated British magazine version. #15817 is the illustrated
   American novel publication.'
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15818#The-Melting-of-Molly
 gutenberg_bookshelf: Bestsellers, American, 1895-1923
 gutenberg_issued: '2005-05-12'
 gutenberg_type: Text
