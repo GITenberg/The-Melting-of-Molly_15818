@@ -1,0 +1,31 @@
+_repo: The-Melting-of-Molly_15818
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Daviess, Maria Thompson
+    birthdate: 1872
+    deathdate: 1924
+    gutenberg_agent_id: '1284'
+    url: http://www.gutenberg.org/2009/agents/1284
+description: 'There are two separate and significantly different versions of this
+  text. This is the non-illustrated British magazine version. #15817 is the illustrated
+  American novel publication.'
+gutenberg_bookshelf: Bestsellers, American, 1895-1923
+gutenberg_issued: '2005-05-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15818'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Widows -- Fiction'
+- !lcsh 'Love stories'
+- !lcsh 'Reducing diets -- Fiction'
+- !lcc 'PS'
+title: The Melting of Molly
+url: http://www.gutenberg.org/ebooks/15818
